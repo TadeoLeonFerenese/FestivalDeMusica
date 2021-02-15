@@ -345,6 +345,7 @@ module.exports = {
             6: 'repeat(6, minmax(0, 1fr))',
         },
         height: (theme) => ({
+            tarjeta: '20rem',
             auto: 'auto',
             ...theme('spacing'),
             '1/2': '50%',
@@ -673,6 +674,7 @@ module.exports = {
             '-full': '-100%',
         }),
         width: (theme) => ({
+            tarjeta: '20rem',
             auto: 'auto',
             ...theme('spacing'),
             '1/2': '50%',
