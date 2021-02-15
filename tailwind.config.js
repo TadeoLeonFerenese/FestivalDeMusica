@@ -162,6 +162,7 @@ module.exports = {
             DEFAULT: '1',
         },
         fontFamily: {
+            google: ['Permanent Marker', ],
             sans: [
                 'ui-sans-serif',
                 'system-ui',
