@@ -1,0 +1,13 @@
+.banner {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("/Fest/img/Brucebanner2.jpg");
+    height: 475px;
+}
+
+.titulo {
+    font-size: 124px;
+    font-family: 'Permanent Marker';
+    color: white;
+    text-shadow: 5px 0px 15px rgb(0, 0, 0) !important;
+}
